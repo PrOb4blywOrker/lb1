@@ -18,3 +18,15 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+//hello world!
+//hello world!
+//hello world!
+//hello world!
+//hello world!
+//hello world!
+//hello world!
+//hello world!
+//hello world!
+//hello world!
+//hello world!
